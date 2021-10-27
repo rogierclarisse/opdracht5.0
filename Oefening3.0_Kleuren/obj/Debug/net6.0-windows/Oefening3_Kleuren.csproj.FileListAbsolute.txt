@@ -1,0 +1,17 @@
+C:\dotnet\Hoofdstuk7\Oefening3_Kleuren\bin\Debug\net6.0-windows\Oefening3_Kleuren.exe
+C:\dotnet\Hoofdstuk7\Oefening3_Kleuren\bin\Debug\net6.0-windows\Oefening3_Kleuren.deps.json
+C:\dotnet\Hoofdstuk7\Oefening3_Kleuren\bin\Debug\net6.0-windows\Oefening3_Kleuren.runtimeconfig.json
+C:\dotnet\Hoofdstuk7\Oefening3_Kleuren\bin\Debug\net6.0-windows\Oefening3_Kleuren.dll
+C:\dotnet\Hoofdstuk7\Oefening3_Kleuren\bin\Debug\net6.0-windows\ref\Oefening3_Kleuren.dll
+C:\dotnet\Hoofdstuk7\Oefening3_Kleuren\bin\Debug\net6.0-windows\Oefening3_Kleuren.pdb
+C:\dotnet\Hoofdstuk7\Oefening3_Kleuren\obj\Debug\net6.0-windows\Oefening3_Kleuren.csproj.AssemblyReference.cache
+C:\dotnet\Hoofdstuk7\Oefening3_Kleuren\obj\Debug\net6.0-windows\Oefening3_Kleuren.Rechthoek.resources
+C:\dotnet\Hoofdstuk7\Oefening3_Kleuren\obj\Debug\net6.0-windows\Oefening3_Kleuren.csproj.GenerateResource.cache
+C:\dotnet\Hoofdstuk7\Oefening3_Kleuren\obj\Debug\net6.0-windows\Oefening3_Kleuren.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet\Hoofdstuk7\Oefening3_Kleuren\obj\Debug\net6.0-windows\Oefening3_Kleuren.AssemblyInfoInputs.cache
+C:\dotnet\Hoofdstuk7\Oefening3_Kleuren\obj\Debug\net6.0-windows\Oefening3_Kleuren.AssemblyInfo.cs
+C:\dotnet\Hoofdstuk7\Oefening3_Kleuren\obj\Debug\net6.0-windows\Oefening3_Kleuren.csproj.CoreCompileInputs.cache
+C:\dotnet\Hoofdstuk7\Oefening3_Kleuren\obj\Debug\net6.0-windows\Oefening3_Kleuren.dll
+C:\dotnet\Hoofdstuk7\Oefening3_Kleuren\obj\Debug\net6.0-windows\ref\Oefening3_Kleuren.dll
+C:\dotnet\Hoofdstuk7\Oefening3_Kleuren\obj\Debug\net6.0-windows\Oefening3_Kleuren.pdb
+C:\dotnet\Hoofdstuk7\Oefening3_Kleuren\obj\Debug\net6.0-windows\Oefening3_Kleuren.genruntimeconfig.cache

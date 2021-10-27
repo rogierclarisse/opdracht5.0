@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Oefening2_GemiddeldeMDI/1.0.0": {
+        "runtime": {
+          "Oefening2_GemiddeldeMDI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Oefening2_GemiddeldeMDI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

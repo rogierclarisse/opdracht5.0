@@ -1,0 +1,17 @@
+C:\dotnet\Hoofdstuk7\Oefening1_menus\bin\Debug\net6.0-windows\Oefening1_menus.exe
+C:\dotnet\Hoofdstuk7\Oefening1_menus\bin\Debug\net6.0-windows\Oefening1_menus.deps.json
+C:\dotnet\Hoofdstuk7\Oefening1_menus\bin\Debug\net6.0-windows\Oefening1_menus.runtimeconfig.json
+C:\dotnet\Hoofdstuk7\Oefening1_menus\bin\Debug\net6.0-windows\Oefening1_menus.dll
+C:\dotnet\Hoofdstuk7\Oefening1_menus\bin\Debug\net6.0-windows\ref\Oefening1_menus.dll
+C:\dotnet\Hoofdstuk7\Oefening1_menus\bin\Debug\net6.0-windows\Oefening1_menus.pdb
+C:\dotnet\Hoofdstuk7\Oefening1_menus\obj\Debug\net6.0-windows\Oefening1_menus.csproj.AssemblyReference.cache
+C:\dotnet\Hoofdstuk7\Oefening1_menus\obj\Debug\net6.0-windows\Oefening1_menus.Form1.resources
+C:\dotnet\Hoofdstuk7\Oefening1_menus\obj\Debug\net6.0-windows\Oefening1_menus.csproj.GenerateResource.cache
+C:\dotnet\Hoofdstuk7\Oefening1_menus\obj\Debug\net6.0-windows\Oefening1_menus.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet\Hoofdstuk7\Oefening1_menus\obj\Debug\net6.0-windows\Oefening1_menus.AssemblyInfoInputs.cache
+C:\dotnet\Hoofdstuk7\Oefening1_menus\obj\Debug\net6.0-windows\Oefening1_menus.AssemblyInfo.cs
+C:\dotnet\Hoofdstuk7\Oefening1_menus\obj\Debug\net6.0-windows\Oefening1_menus.csproj.CoreCompileInputs.cache
+C:\dotnet\Hoofdstuk7\Oefening1_menus\obj\Debug\net6.0-windows\Oefening1_menus.dll
+C:\dotnet\Hoofdstuk7\Oefening1_menus\obj\Debug\net6.0-windows\ref\Oefening1_menus.dll
+C:\dotnet\Hoofdstuk7\Oefening1_menus\obj\Debug\net6.0-windows\Oefening1_menus.pdb
+C:\dotnet\Hoofdstuk7\Oefening1_menus\obj\Debug\net6.0-windows\Oefening1_menus.genruntimeconfig.cache

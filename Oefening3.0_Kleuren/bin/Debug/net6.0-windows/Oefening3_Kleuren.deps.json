@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Oefening3_Kleuren/1.0.0": {
+        "runtime": {
+          "Oefening3_Kleuren.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Oefening3_Kleuren/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
